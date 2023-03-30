@@ -10,10 +10,9 @@
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gui-C" height="30" width="40" src="
-            <i class="devicon-adonisjs-original colori"></i>
+  <img align="center" alt="Gui-C" height="30" width="40" src="<i class="devicon-adonisjs-original colori"></i>
           ">
-  <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="blob:https://web.whatsapp.com/b9b4e939-4ab2-4841-8c65-29875e4e22d4">
+  <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://web.whatsapp.com/b9b4e939-4ab2-4841-8c65-29875e4e22d4">
   
 </div>
   
