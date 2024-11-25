@@ -3,7 +3,7 @@
 - 🔭 Ainda não trabalho
 - 🌱 Estudando Ciência da Computação e Jogos Digitais
 - 👯 Linguagem C
-- 📧 Contato: guipetruitis@outlook.com
+- 📧 Contato: guilherme.gpetruitis@gmail.com
 -->
 
 <div style="display: inline_block"><br>
