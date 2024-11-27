@@ -1,7 +1,7 @@
 ### Oi, eu sou o Guilherme Petruitis 👋
 
 - 🔭 Ainda não trabalho
-- 🌱 Estudando Ciência da Computação e Jogos Digitais
+- 🌱 Estudante de Ciência da Computação
 - 👯 Linguagem C
 - 📧 Contato: guilherme.gpetruitis@gmail.com
 -->
@@ -18,7 +18,7 @@
   ##
  
 <div> 
-  <a href = "mailto:guilhermepetruitis44@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:guilherme.gpetruitis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guipetruitis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
