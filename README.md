@@ -1,6 +1,6 @@
 ### Oi, eu sou o Guilherme Petruitis 👋
 
-- 🔭 Ainda não trabalho
+- 🔭 Aprendiz em Tecnologia
 - 🌱 Estudante de Ciência da Computação
 - 👯 Linguagem C
 - 📧 Contato: guilherme.gpetruitis@gmail.com
