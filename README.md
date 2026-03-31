@@ -1,8 +1,8 @@
 ### Oi, eu sou o Guilherme Petruitis 👋
 
-- 🔭 Aprendiz em Tecnologia
+- 🔭 Estagiário de IA e Automação
 - 🌱 Estudante de Ciência da Computação
-- 👯 Linguagem C
+- 👯 Python, N8N, SQL, Docker
 - 📧 Contato: guilherme.gpetruitis@gmail.com
 -->
 
